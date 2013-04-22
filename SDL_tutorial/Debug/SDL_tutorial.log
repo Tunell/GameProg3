@@ -1,0 +1,17 @@
+﻿Build started 2013-02-19 11:25:51.
+     1>Project "C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\Inlämning\SDL_tutorial\SDL_tutorial\SDL_tutorial.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Inlupp prog3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         SDL_tutorial.vcxproj -> C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\Inlämning\SDL_tutorial\Debug\Inlupp prog3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Inlupp prog3.unsuccessfulbuild".
+         Touching "Debug\Inlupp prog3.lastbuildstate".
+     1>Done Building Project "C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\Inlämning\SDL_tutorial\SDL_tutorial\SDL_tutorial.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26

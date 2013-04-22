@@ -1,0 +1,29 @@
+﻿Build started 2013-01-20 19:31:05.
+     1>Project "C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\SDL_tutorial\SDL_tutorial\SDL_tutorial.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\Inlupp prog3.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Image.cpp main.cpp Player.cpp Vinst.cpp
+         Image.cpp
+         main.cpp
+         Player.cpp
+         Vinst.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\SDL_tutorial\Release\Inlupp prog3.exe" /NOLOGO SDL.lib SDLmain.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Inlupp prog3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\SDL_tutorial\Release\Inlupp prog3.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\SDL_tutorial\Release\Inlupp prog3.lib" /MACHINE:X86 Release\Ball.obj
+         Release\Game.obj
+         Release\GameEngine.obj
+         Release\Globals.obj
+         Release\Image.obj
+         Release\Komponent.obj
+         Release\main.obj
+         Release\Player.obj
+         Release\Rectangle.obj
+         Release\Vinst.obj
+         Release\Wall.obj
+     1>Image.obj : error LNK2001: unresolved external symbol _IMG_Load
+     1>C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\SDL_tutorial\Release\Inlupp prog3.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\Pelle\Dropbox\Skola\Prog 3\SDL\SDL_tutorial\SDL_tutorial\SDL_tutorial.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.32
